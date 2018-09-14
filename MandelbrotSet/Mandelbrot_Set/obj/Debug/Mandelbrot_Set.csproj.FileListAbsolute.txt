@@ -1,0 +1,40 @@
+C:\Users\Maira\Documents\C++\Mandelbrot_Set\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe.config
+C:\Users\Maira\Documents\C++\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csprojResolveAssemblyReference.cache
+C:\Users\Maira\Documents\C++\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Mandelbrot.resources
+C:\Users\Maira\Documents\C++\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Properties.Resources.resources
+C:\Users\Maira\Documents\C++\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csproj.GenerateResource.Cache
+C:\Users\Maira\Documents\C++\Mandelbrot_Set\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe
+C:\Users\Maira\Documents\C++\Mandelbrot_Set\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.pdb
+C:\Users\Maira\Documents\C++\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.exe
+C:\Users\Maira\Documents\C++\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.pdb
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe.config
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.exe
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.pdb
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.pdb
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csprojResolveAssemblyReference.cache
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Mandelbrot.resources
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Properties.Resources.resources
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csproj.GenerateResource.Cache
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3_new\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe.config
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3_new\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.exe
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3_new\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.pdb
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3_new\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3_new\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.pdb
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3_new\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csprojResolveAssemblyReference.cache
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3_new\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Mandelbrot.resources
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3_new\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Properties.Resources.resources
+C:\Users\Maira\Documents\C++\MandelbrotSet_HW3_new\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csproj.GenerateResource.Cache
+E:\Assignment 3\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe.config
+E:\Assignment 3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.exe
+E:\Assignment 3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.pdb
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe.config
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.pdb
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csprojAssemblyReference.cache
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Mandelbrot.resources
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Properties.Resources.resources
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csproj.GenerateResource.cache
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csproj.CoreCompileInputs.cache
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.exe
+C:\Users\masoo\Documents\480\Assignment 3\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.pdb
